@@ -1,0 +1,4 @@
+﻿  Lap4.cpp
+C:\Users\nguye\source\repos\GAME1011\Game1011_Lap4_NguyenDung\Lap4.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nguye\source\repos\GAME1011\Game1011_Lap4_NguyenDung\Lap4.h(26): warning C4715: 'palindrome': not all control paths return a value
+  Game1011_Lap4_NguyenDung.vcxproj -> C:\Users\nguye\source\repos\GAME1011\Game1011_Lap4_NguyenDung\Debug\Game1011_Lap4_NguyenDung.exe
